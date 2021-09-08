@@ -1,0 +1,11 @@
+.shoeList .card {
+    width: 18rem;
+}
+
+.shoeList .btn {
+    width: 100%;
+}
+
+.detail .preview img {
+    width: 10px;
+}
